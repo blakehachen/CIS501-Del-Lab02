@@ -7,6 +7,9 @@ namespace Lab2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Client client = new Client();
+
+            client.work();
         }
     }
 }

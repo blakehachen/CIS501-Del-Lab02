@@ -6,7 +6,7 @@ namespace Lab2
 {
     public class Manager
     {
-        private List<Helper> active;
+        private List<Helper> active = new List<Helper>();
 
         public void remove(Helper h)
         {

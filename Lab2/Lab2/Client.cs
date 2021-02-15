@@ -6,7 +6,7 @@ namespace Lab2
 {
     public class Client
     {
-        Manager mgr;
+        Manager mgr = new Manager();
         
         public void work()
         {
@@ -14,6 +14,7 @@ namespace Lab2
             Helper h = mgr.requestHelp();
             h.doWork();
             h.finished();
+            Console.WriteLine("I am a happy Client");
         }
     }
 }
