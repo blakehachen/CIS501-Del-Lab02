@@ -1,0 +1,11 @@
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\bin\Debug\netcoreapp3.1\InterfacePart.exe
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\bin\Debug\netcoreapp3.1\InterfacePart.deps.json
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\bin\Debug\netcoreapp3.1\InterfacePart.runtimeconfig.json
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\bin\Debug\netcoreapp3.1\InterfacePart.runtimeconfig.dev.json
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\bin\Debug\netcoreapp3.1\InterfacePart.dll
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\bin\Debug\netcoreapp3.1\InterfacePart.pdb
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\obj\Debug\netcoreapp3.1\InterfacePart.csprojAssemblyReference.cache
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\obj\Debug\netcoreapp3.1\InterfacePart.AssemblyInfoInputs.cache
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\obj\Debug\netcoreapp3.1\InterfacePart.AssemblyInfo.cs
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\obj\Debug\netcoreapp3.1\InterfacePart.dll
+C:\Users\bhach\Desktop\Lab2\CIS501-Del-Lab02\Lab2\InterfacePart\obj\Debug\netcoreapp3.1\InterfacePart.pdb
