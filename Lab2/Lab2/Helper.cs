@@ -13,12 +13,12 @@ namespace Lab2
 
         public void doWork()
         {
-
+            Console.WriteLine("Working");
         }
 
         public void finished()
         {
-
+            Console.WriteLine("Done..");
         }
 
         

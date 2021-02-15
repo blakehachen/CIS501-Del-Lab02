@@ -10,6 +10,7 @@ namespace Lab2
         
         public void work()
         {
+            Console.WriteLine("Requesting help to Manager");
             Helper h = mgr.requestHelp();
             h.doWork();
             h.finished();
